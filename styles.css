@@ -1,0 +1,29 @@
+body{
+    margin: 0 auto;padding: 8px;
+    background-color: rgb(240, 250, 240);
+    display: block;
+}
+h1{
+    text-align: center;
+    font-style: oblique;
+    font-family: sans-serif;
+    color: blue;
+}
+.About{
+    padding: auto;
+    margin: 20px;
+    background-color: ivory;
+    align-content: center;
+}
+.Their-songs{
+    padding-left: 10px;
+    margin: inherit;
+    background-color: inherit;
+
+}
+.band-members{
+    padding-right: inherit;
+    margin: 10px;
+    background-color: inherit;
+    align-content: center;
+}
